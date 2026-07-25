@@ -91,10 +91,10 @@ ReadQuest aims to help students:
 
 ## 📸 Screenshots
 
-<img width="3226" height="3972" alt="final" src="https://github.com/user-attachments/assets/e07a1d53-b0c8-4dae-8124-13cab62276ff" />
-<img width="2974" height="1832" alt="final4" src="https://github.com/user-attachments/assets/25ae2d69-400f-4226-8de9-eb3c48fc75a2" />
-<img width="2970" height="1832" alt="final3" src="https://github.com/user-attachments/assets/5cffca35-9d21-444a-9a05-7a133980f40c" />
-<img width="2950" height="3090" alt="final2" src="https://github.com/user-attachments/assets/8f8d3c3b-0145-4add-a8d8-c9f951493fdb" />
+<img width="1226" height="1972" alt="final" src="https://github.com/user-attachments/assets/e07a1d53-b0c8-4dae-8124-13cab62276ff" />
+<img width="1974" height="832" alt="final4" src="https://github.com/user-attachments/assets/25ae2d69-400f-4226-8de9-eb3c48fc75a2" />
+<img width="1970" height="832" alt="final3" src="https://github.com/user-attachments/assets/5cffca35-9d21-444a-9a05-7a133980f40c" />
+<img width="1950" height="1090" alt="final2" src="https://github.com/user-attachments/assets/8f8d3c3b-0145-4add-a8d8-c9f951493fdb" />
 
 ---
 
