@@ -255,7 +255,7 @@ const stories = [
 
     time:"30 mins",
 
-    reward:6,
+    reward:5,
 
     category:"Patience",
 
